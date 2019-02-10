@@ -29,10 +29,10 @@ const App = () => {
 
 
                                 <div className="d-flex flex-column">
-                                    <h1>I'M <span className="font-weight-bolder text-purple">MUHAMMAD</span></h1>
-                                    <span className="text-dark-50 font-weight-bold mb-2">JAVA DEVELOPER <span className="text-purple" >AND</span> FRONT-END DEVELOPER</span>
+                                    <h1 className="text-center text-sm-left">I'M <span className="font-weight-bolder text-purple">MUHAMMAD</span></h1>
+                                    <span className="text-center text-sm-left font-weight-bold mb-2">JAVA DEVELOPER <span className="text-purple" >AND</span> FRONT-END DEVELOPER</span>
 
-                                    <div className="about-me-wrapper mb-3">
+                                    <div className="about-me-wrapper text-secondary text-center text-sm-left mb-3">
                                         Hello, I’m Muhammad Shahabipour, I was born in Tehran and live in it. I'm currently in senior positioning Java developer at VASL
                                         </div>
 
