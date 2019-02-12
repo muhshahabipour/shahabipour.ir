@@ -15,8 +15,8 @@ const App = () => {
     return (
         <div className="p-3 p-md-5 d-flex flex-column" style={{ minHeight: "100vh" }}>
             <div className="card border-0 shadow flex-fill" style={{ minWidth: "calc(360px - 2rem)" }}>
-                <div className="card-body p-3">
-                    <div className="d-flex flex-column h-100">
+                <div className="card-body p-3 d-flex flex-column ">
+                    <div className="d-flex flex-column flex-fill">
                         <CustomNavbar />
 
                         <div className="d-flex align-items-center justify-content-center flex-fill">
