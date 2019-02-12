@@ -76,13 +76,13 @@ body {
 
 .my-image {
     position: relative;
-    width: 200px;
-    min-width: 200px;
-    height: 200px;
+    width: 204px;
+    min-width: 204px;
+    height: 204px;
     background-image: url('./images/my-photo.jpg');
     background-size: cover;
     background-position: center center;
-    margin: 0 auto 1rem;
+    margin: 0.6rem auto 1rem;
     z-index: 1;
 }
 
