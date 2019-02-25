@@ -30,7 +30,7 @@ body {
 
     &::after {
         content: "";
-        background-image: url("./images/wallpaper.jpg");
+        background-image: url("../images/wallpaper.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -79,7 +79,7 @@ body {
     width: 204px;
     min-width: 204px;
     height: 204px;
-    background-image: url('./images/my-photo.jpg');
+    background-image: url('../images/my-photo.jpg');
     background-size: cover;
     background-position: center center;
     margin: 0.6rem auto 1rem;
